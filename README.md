@@ -5,7 +5,7 @@
 <a href="#"><img title="𝙼𝚒𝚗𝚗𝚞-𝚖𝚘𝚕𝚎🦋" src="https://img.shields.io/badge/𝙼𝚒𝚗𝚗𝚞𝚖𝚘𝚕𝚎🦋-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-𝐀𝐩𝐩𝐮★𝐬𝐞𝐫/𝐀𝐩𝐩𝐮★𝐬𝐞𝐫?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/APPUS-SER"><img title="Author" src="https://img.shields.io/badge/Author-𝐀𝐩𝐩𝐮★𝐬𝐞𝐫/𝐀𝐩𝐩𝐮★𝐬𝐞𝐫?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
