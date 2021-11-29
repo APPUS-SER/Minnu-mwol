@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝙼𝚒𝚗𝚗𝚞-𝚖𝚘𝚕𝚎🦋" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/APPUS-SER">𝐀𝐩𝐩𝐮★𝐬𝐞𝐫</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/APPUS-SER/𝙼𝚒𝚗𝚗𝚞-𝚖𝚘𝚕𝚎) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -32,8 +32,8 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/APPUS-SER/Minnu-mwol
+$ cd Minnu-mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/APPUS-SER/Minnu-mwol
+$ cd Minnu-mwol
 $ npm i
 $ node julie.js
 ```
@@ -82,8 +82,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`Ajmal-Achu`](github.com/Ajmal-Achu)
-* [`Farhan-dqz`](github.com/Farhan-dqz)
+* [`𝐀𝐩𝐩𝐮★𝐬𝐞𝐫`](github.com/APPUS-SER)
+
 
 ## Developers
   <div align="center">
